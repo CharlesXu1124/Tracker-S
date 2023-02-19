@@ -11,6 +11,16 @@
         "com.unity.xr.core-utils": "2.1.0"
       }
     },
+    "com.microsoft.mrtk.accessibility": {
+      "version": "file:MixedReality/com.microsoft.mrtk.accessibility-1.0.0-pre.14.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.microsoft.mrtk.core": "1.0.0-pre.14",
+        "com.microsoft.mrtk.graphicstools.unity": "0.4.0",
+        "com.unity.textmeshpro": "3.0.6"
+      }
+    },
     "com.microsoft.mrtk.audio": {
       "version": "file:MixedReality/com.microsoft.mrtk.audio-3.0.0-pre.14.tgz",
       "depth": 0,
